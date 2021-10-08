@@ -14,5 +14,14 @@ public class Calculator {
         System.out.println(cha);
         String st = "Martina";
         System.out.println(st);
+
+        //modulo
+        boolean even = 2 % 2 == 0;
+        System.out.println(even);
+
+        //adition
+        int b = 2 + 3;
+        int sub = 3 - 2;
+
     }
 }
